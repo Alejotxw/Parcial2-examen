@@ -9,7 +9,7 @@ class GaleriaSQLite extends StatefulWidget {
 
 class _GaleriaSQLiteState extends State<GaleriaSQLite> {
   // VARIACIÓN INDIVIDUAL: D = 4
-  final String miIdentificador = "AI-4"; 
+  final String miIdentificador = "Chocho A-4"; 
   late Future<List<Map<String, dynamic>>> _futureDatos;
 
   @override
